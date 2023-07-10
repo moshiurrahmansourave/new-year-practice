@@ -1,0 +1,154 @@
+header {
+
+    background-image: url('../images/banner/banner1.png');
+    background-size: cover;
+
+    width: 1600px;
+    height: 808px;
+}
+
+nav {
+    margin-right: 230px;
+    margin-top: 216px;
+    text-align: right;
+}
+
+.header-title {
+    color: #151414;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-weight: 700;
+}
+
+.header-discription {
+    color: #444343;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+
+}
+
+.btn-pimary {
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #F15B22;
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* failure section style */
+.failures {
+    display: flex;
+    justify-content: space-between;
+}
+
+.failure-image {
+    margin-top: 140px;
+    margin-left: 277px;
+
+}
+
+.failure-section-writing {
+    margin-right: 440px;
+    margin-top: 270px;
+    margin-left: 100px;
+}
+
+.failure-title {
+    color: #151414;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 24px;
+    width: 288px;
+}
+
+.failure-discription {
+    color: #444343;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 16px;
+    width: 416px;
+}
+
+.popular-belief {
+    color: #444343;
+}
+
+.popular-belief p {
+    margin: 8px;
+}
+
+/* skills related styles */
+.my-plans {
+    margin-top: 100px;
+}
+
+.my-plans h2 {
+    text-align: center;
+    color: #151414;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.skills {
+    display: flex;
+    gap: 99px;
+    justify-content: center;
+}
+
+.skill {
+    text-align: center;
+}
+
+.skill .skill-title {
+    margin-top: 24px;
+    margin-bottom: 16px;
+    color: #151414;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.skill-position {
+    color: #737272;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+#call-now {
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FFF;
+    color: #F15B22;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.last-main-section h2 {
+
+    color: #e90f0f;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-weight: 700;
+    width: 459px;
+    /* margin: 60px 617px 147px 64px; */
+}
+
+.last-main-section {
+    background-image: url('../images/watch.png');
+    width: 1140px;
+    height: 300px;
+}
